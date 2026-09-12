@@ -1,2 +1,2 @@
-||*.deepseek.com^
-||*.*deepseek.com^
+@@||*.deepseek.com^$document
+@@||*.*deepseek.com^$document
