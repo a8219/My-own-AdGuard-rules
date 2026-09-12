@@ -1,2 +1,12 @@
-/^deepseek\.[^.]+\.(com|cn)$/
-/^deepseek\.com\.cn$/
+||deepseek.*.com^
+||deepseek.*.cn^
+||deepseek.*.com.cn^
+||deepseek-*.com^
+||deepseek-*.cn^
+||deepseek*.cn^
+||deepseek*.com^
+||deepseek*.com.cn^
+||deepseek-*.com.cn^
+||deepseek-*.cn.com^
+||deepseek*.cn.com^
+||deepseek.*.cn.com^
