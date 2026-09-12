@@ -11,3 +11,4 @@
 ||deepseek*.cn.com^
 ||deepseek.*.cn.com^
 ||deepseek*^
+||deepseek.*^
