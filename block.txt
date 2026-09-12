@@ -1,1 +1,2 @@
-/^deepseek\.[^.]+\.com$/
+/^deepseek\.[^.]+\.(com|cn)$/
+/^deepseek\.com\.cn$/
