@@ -1,2 +1,3 @@
 172.67.74.156 hanime1.me
 202.89.233.100 cn.bing.com
+23.15.142.182 store.steampowered.com
