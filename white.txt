@@ -1,2 +1,3 @@
 @@||*.deepseek.com^$document
 @@||*.*deepseek.com^$document
+@@||fe-static.deepseek.com^
