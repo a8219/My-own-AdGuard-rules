@@ -12,3 +12,4 @@
 ||deepseek.*.cn.com^
 ||deepseek*^
 ||deepseek.*^
+||tip-top.one^
