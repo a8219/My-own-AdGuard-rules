@@ -13,3 +13,4 @@
 ||deepseek*^
 ||deepseek.*^
 ||tip-top.one^
+||192.238.142.212^
