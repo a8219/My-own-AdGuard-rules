@@ -13,4 +13,4 @@
 ||deepseek*^
 ||deepseek.*^
 ||tip-top.one^
-||192.238.142.212^
+||sp.wuhankom.com/*/*^
