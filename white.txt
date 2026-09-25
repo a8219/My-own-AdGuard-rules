@@ -1,3 +1,4 @@
 @@||*.deepseek.com^$document
 @@||*.*deepseek.com^$document
 @@||fe-static.deepseek.com^
+@@||sp.wuhankom.com/aqx/statics/css/*^
