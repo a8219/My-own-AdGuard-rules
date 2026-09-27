@@ -2,3 +2,4 @@
 @@||*.*deepseek.com^$document
 @@||fe-static.deepseek.com^
 @@||sp.wuhankom.com/aqx/statics/css/*^
+@@||bsbsb.top^$important
