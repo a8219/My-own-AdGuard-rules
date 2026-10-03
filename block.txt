@@ -15,3 +15,8 @@
 ||tip-top.one^
 ||sp.wuhankom.com/*/*^
 ||192.238.142.212:8443/*^
+||short.weixin.qq.com^
+||dns.weixin.qq.com^
+||szshort.weixin.qq.com^
+||dns.weixin.qq.com.cn^
+||long.weixin.qq.com^
