@@ -14,3 +14,4 @@
 ||deepseek.*^
 ||tip-top.one^
 ||https://天青如画.alimove.com/*^
+||wz88.com/*^
